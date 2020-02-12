@@ -1,0 +1,9 @@
+Difficult problem in the file 
+This  is the satrting point
+ First attempt
+ stepA
+ stepB
+ stepC
+ stepD
+
+ did not work will try something else
